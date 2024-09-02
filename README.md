@@ -1,1 +1,1 @@
-
+Este repositório contém os exercícios do Módulo 3 do curso de Python do Professor Gustavo Guanabara, disponível no Curso em Vídeo. Aqui você encontrará soluções para os desafios propostos, explorando conceitos fundamentais e avançados da linguagem Python.
